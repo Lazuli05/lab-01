@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `Salix Lonsbury
-- **CCID:** `lonsbury`
+- **Full Name:** Salix Lonsbury
+- **CCID:** lonsbury
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
